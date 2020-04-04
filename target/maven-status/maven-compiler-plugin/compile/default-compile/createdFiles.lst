@@ -1,7 +1,0 @@
-com/cricket/controller/CricketInfoController.class
-com/cricket/model/MatchInfo.class
-com/cricket/service/CricketService.class
-com/cricket/model/Provider.class
-com/cricket/Starter.class
-com/cricket/model/Response.class
-com/cricket/exception/ExceptionHandler.class
